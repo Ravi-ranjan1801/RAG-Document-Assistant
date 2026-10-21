@@ -1,0 +1,25 @@
+# SSH keys
+ssh/
+SSH/
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated files
+*.bin
+tempCodeRunnerFile.py
+
+# Environment files
+.env
+.env.*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+backend/documents/*.pdf
+!backend/documents/sample.pdf
